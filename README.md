@@ -1,0 +1,7 @@
+- ember-cli-deploy
+- ember-git-version
+- Deployment revisions
+- Bugsnag
+- Staging environment
+- yarn
+- Test maintenance
